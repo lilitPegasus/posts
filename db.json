@@ -1,27 +1,33 @@
 [
     {
-        "id":1,
+        "posts": [
+          {
+            "id":1,
         "title": "ЖК Standard One",
         "description": "вул. Васильківська, 100а",
         "img":"https://img.lun.ua/building-800x600/20874.jpg", 
         "area": "Київ Печерський р-н" 
-    },{
-        "id":2,
-        "title": "Житловий район Rybalsky",
-        "description":"Набережно-Рибальська др. 3, 9",
-        "img":"https://img.lun.ua/building-800x600/28960.jpg",
-        "area":"Київ Печерський р-н" 
-    },{
-        "id":3,
-        "title": "ЖК Chicago Central House",
-        "description":"вул. Антоновича (Горького), 44",
-        "img":"https://img.lun.ua/building-800x600/20771.jpg",
-        "area":"Київ Печерський р-н" 
-    },{
-        "id":4,
-        "title": "Linden Luxury Residences",
-        "description":"вул. Лютеранська, 14в",
-        "img":"https://img.lun.ua/building-800x600/31742.jpg", 
-        "area":"Київ Печерський р-н" 
-    }
-]
+          },
+          {
+            "id":2,
+            "title": "Житловий район Rybalsky",
+            "description":"Набережно-Рибальська др. 3, 9",
+            "img":"https://img.lun.ua/building-800x600/28960.jpg",
+            "area":"Київ Печерський р-н" 
+        },{
+            "id":3,
+            "title": "ЖК Chicago Central House",
+            "description":"вул. Антоновича (Горького), 44",
+            "img":"https://img.lun.ua/building-800x600/20771.jpg",
+            "area":"Київ Печерський р-н" 
+        },{
+            "id":4,
+            "title": "Linden Luxury Residences",
+            "description":"вул. Лютеранська, 14в",
+            "img":"https://img.lun.ua/building-800x600/31742.jpg", 
+            "area":"Київ Печерський р-н" 
+        }
+        ]
+    }]
+        
+    
